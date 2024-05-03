@@ -42,3 +42,10 @@ button {
 .inequality-btn {
   background: hsl(35, 100%, 56%);
 }
+
+a {
+  text-align: center;
+  text-decoration: none;
+  margin: 50px;
+  padding: 40px;
+}
