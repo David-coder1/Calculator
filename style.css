@@ -8,6 +8,7 @@
 .container {
   background-color: #747474cc;
   max-width: 200px;
+
   margin: auto;
   border-radius: 20px;
   margin-top: 40px;
@@ -39,5 +40,5 @@ button {
   font-weight: bolder;
 }
 .inequality-btn {
-  background: hsl(35, 100%, 56%);
+  background: hsl(0, 0%, 0%);
 }
