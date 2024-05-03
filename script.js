@@ -1,4 +1,4 @@
-const display = document.getElementById("display")
+document.getElementById("display").value = result;
 
 function showOnDisplay(input) {
     display.value += input;
